@@ -9,9 +9,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/muhammedmunavvir/LeetCode/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/muhammedmunavvir/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/muhammedmunavvir/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/muhammedmunavvir/LeetCode/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/muhammedmunavvir/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/muhammedmunavvir/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
