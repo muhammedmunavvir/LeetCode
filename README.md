@@ -21,4 +21,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/muhammedmunavvir/LeetCode/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/muhammedmunavvir/LeetCode/tree/master/1137-height-checker) |
+## Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/muhammedmunavvir/LeetCode/tree/master/1137-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/muhammedmunavvir/LeetCode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
