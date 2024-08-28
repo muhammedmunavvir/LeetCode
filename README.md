@@ -22,10 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/muhammedmunavvir/LeetCode/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/muhammedmunavvir/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/muhammedmunavvir/LeetCode/tree/master/1137-height-checker) |
+| [2058-concatenation-of-array](https://github.com/muhammedmunavvir/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
