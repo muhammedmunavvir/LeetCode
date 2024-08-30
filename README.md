@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/muhammedmunavvir/LeetCode/tree/master/0058-length-of-last-word) |
+| [0344-reverse-string](https://github.com/muhammedmunavvir/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/muhammedmunavvir/LeetCode/tree/master/0412-fizz-buzz) |
 | [0782-jewels-and-stones](https://github.com/muhammedmunavvir/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Math
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/muhammedmunavvir/LeetCode/tree/master/1137-height-checker) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/muhammedmunavvir/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
