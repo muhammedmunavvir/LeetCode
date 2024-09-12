@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/muhammedmunavvir/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/muhammedmunavvir/LeetCode/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/muhammedmunavvir/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/muhammedmunavvir/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/muhammedmunavvir/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhammedmunavvir/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/muhammedmunavvir/LeetCode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhammedmunavvir/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/muhammedmunavvir/LeetCode/tree/master/0242-valid-anagram) |
 | [1137-height-checker](https://github.com/muhammedmunavvir/LeetCode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
