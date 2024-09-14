@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/muhammedmunavvir/LeetCode/tree/master/0136-single-number) |
 | [1137-height-checker](https://github.com/muhammedmunavvir/LeetCode/tree/master/1137-height-checker) |
 | [2058-concatenation-of-array](https://github.com/muhammedmunavvir/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Sorting
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muhammedmunavvir/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/muhammedmunavvir/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhammedmunavvir/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/muhammedmunavvir/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
