@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhammedmunavvir/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/muhammedmunavvir/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/muhammedmunavvir/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1205-defanging-an-ip-address](https://github.com/muhammedmunavvir/LeetCode/tree/master/1205-defanging-an-ip-address) |
 ## Math
 |  |
 | ------- |
