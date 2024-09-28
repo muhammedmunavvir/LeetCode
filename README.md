@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/muhammedmunavvir/LeetCode/tree/master/0412-fizz-buzz) |
+| [0861-flipping-an-image](https://github.com/muhammedmunavvir/LeetCode/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/muhammedmunavvir/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muhammedmunavvir/LeetCode/tree/master/0136-single-number) |
+| [0861-flipping-an-image](https://github.com/muhammedmunavvir/LeetCode/tree/master/0861-flipping-an-image) |
 | [1137-height-checker](https://github.com/muhammedmunavvir/LeetCode/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/muhammedmunavvir/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/muhammedmunavvir/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -58,8 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muhammedmunavvir/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/muhammedmunavvir/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhammedmunavvir/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0861-flipping-an-image](https://github.com/muhammedmunavvir/LeetCode/tree/master/0861-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/muhammedmunavvir/LeetCode/tree/master/0136-single-number) |
+| [0861-flipping-an-image](https://github.com/muhammedmunavvir/LeetCode/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/muhammedmunavvir/LeetCode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
