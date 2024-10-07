@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammedmunavvir/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/muhammedmunavvir/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/muhammedmunavvir/LeetCode/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/muhammedmunavvir/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/muhammedmunavvir/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3371-harshad-number](https://github.com/muhammedmunavvir/LeetCode/tree/master/3371-harshad-number) |
 ## Simulation
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/muhammedmunavvir/LeetCode/tree/master/0861-flipping-an-image) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/muhammedmunavvir/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
