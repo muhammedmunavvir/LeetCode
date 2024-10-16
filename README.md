@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/muhammedmunavvir/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/muhammedmunavvir/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [3194-find-words-containing-character](https://github.com/muhammedmunavvir/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3567-convert-date-to-binary](https://github.com/muhammedmunavvir/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/muhammedmunavvir/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/muhammedmunavvir/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3371-harshad-number](https://github.com/muhammedmunavvir/LeetCode/tree/master/3371-harshad-number) |
+| [3567-convert-date-to-binary](https://github.com/muhammedmunavvir/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Simulation
 |  |
 | ------- |
