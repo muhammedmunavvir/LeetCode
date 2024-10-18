@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/muhammedmunavvir/LeetCode/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/muhammedmunavvir/LeetCode/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/muhammedmunavvir/LeetCode/tree/master/2058-concatenation-of-array) |
+| [3311-ant-on-the-boundary](https://github.com/muhammedmunavvir/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/muhammedmunavvir/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/muhammedmunavvir/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/muhammedmunavvir/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3311-ant-on-the-boundary](https://github.com/muhammedmunavvir/LeetCode/tree/master/3311-ant-on-the-boundary) |
 ## Sorting
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/muhammedmunavvir/LeetCode/tree/master/2491-smallest-even-multiple) |
+## Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/muhammedmunavvir/LeetCode/tree/master/3311-ant-on-the-boundary) |
 <!---LeetCode Topics End-->
