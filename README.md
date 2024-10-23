@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/muhammedmunavvir/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/muhammedmunavvir/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/muhammedmunavvir/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/muhammedmunavvir/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [3194-find-words-containing-character](https://github.com/muhammedmunavvir/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/muhammedmunavvir/LeetCode/tree/master/3567-convert-date-to-binary) |
 ## Math
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/muhammedmunavvir/LeetCode/tree/master/1137-height-checker) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/muhammedmunavvir/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/muhammedmunavvir/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/muhammedmunavvir/LeetCode/tree/master/3311-ant-on-the-boundary) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/muhammedmunavvir/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
