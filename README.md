@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/muhammedmunavvir/LeetCode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/muhammedmunavvir/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/muhammedmunavvir/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/muhammedmunavvir/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/muhammedmunavvir/LeetCode/tree/master/0861-flipping-an-image) |
 | [1137-height-checker](https://github.com/muhammedmunavvir/LeetCode/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/muhammedmunavvir/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/muhammedmunavvir/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/muhammedmunavvir/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/muhammedmunavvir/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3311-ant-on-the-boundary](https://github.com/muhammedmunavvir/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/muhammedmunavvir/LeetCode/tree/master/1137-height-checker) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/muhammedmunavvir/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/muhammedmunavvir/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/muhammedmunavvir/LeetCode/tree/master/1848-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
