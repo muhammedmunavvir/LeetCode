@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/muhammedmunavvir/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/muhammedmunavvir/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/muhammedmunavvir/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2752-sum-multiples](https://github.com/muhammedmunavvir/LeetCode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/muhammedmunavvir/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3371-harshad-number](https://github.com/muhammedmunavvir/LeetCode/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/muhammedmunavvir/LeetCode/tree/master/3567-convert-date-to-binary) |
