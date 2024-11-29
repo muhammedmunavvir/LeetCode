@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/muhammedmunavvir/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/muhammedmunavvir/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/muhammedmunavvir/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/muhammedmunavvir/LeetCode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3194-find-words-containing-character](https://github.com/muhammedmunavvir/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/muhammedmunavvir/LeetCode/tree/master/3379-score-of-a-string) |
 | [3567-convert-date-to-binary](https://github.com/muhammedmunavvir/LeetCode/tree/master/3567-convert-date-to-binary) |
