@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/muhammedmunavvir/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammedmunavvir/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muhammedmunavvir/LeetCode/tree/master/0389-find-the-difference) |
 | [0782-jewels-and-stones](https://github.com/muhammedmunavvir/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/muhammedmunavvir/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/muhammedmunavvir/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/muhammedmunavvir/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhammedmunavvir/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammedmunavvir/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muhammedmunavvir/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/muhammedmunavvir/LeetCode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/muhammedmunavvir/LeetCode/tree/master/0520-detect-capital) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammedmunavvir/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1137-height-checker](https://github.com/muhammedmunavvir/LeetCode/tree/master/1137-height-checker) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/muhammedmunavvir/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/muhammedmunavvir/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/muhammedmunavvir/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammedmunavvir/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
